@@ -13,7 +13,7 @@
   - 🔭 I’m currently working on To Do list Javascript
   - 🌱 Currently learning ES6 and webpack
   - 👯 Looking to collaborate on javascript API
-  - 💬 Ask me about Javascript, Bootstap, python, Django
+  - 💬 Ask me about Javascript, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: I have 8 years of experience with javascript, but I took an amazing journey for becoming a Full-stack Developer
