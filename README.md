@@ -13,16 +13,17 @@
 - <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 - <a href="https://twitter.com/SanjaMandic42">Twiter</a> 💼
 
-### <div style = 'display: flex; align-items: center'><img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2014/02/despicable-me-gif.gif?fit=480%2C254&quality=100&ssl=1" width="50"> <p>A little more about me...</p></div>
+### <div style = 'display: flex; align-items: center'><p>A little more about me...</p><img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2014/02/despicable-me-gif.gif?fit=480%2C254&quality=100&ssl=1" width="50"></div>
 
 
-  <li>lookingFor: "Full-stack web developer",</li>
-  <li>pronouns: ["she", "her"],</li>
-  <li>code: [JavaScript, Python, Django, HTML/CSS, Bootstrap],</li>
-  <li>askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],</li>
-  <li>challenge: "I am honing my Javascript skills, and work with APIs`",</li>
-  <li>funFacts: ['I have 8 years of Mechanical Engineering experience and I took the amasing jeyrney of becoming full-stack Developer']</li>
+  🔭 I’m currently working on To Do list Javascript
+  🌱 I’m currently learning ES6 and webpack
+  👯 I’m looking to collaborate on javascript API
+  💬 Ask me about Javascript, Bootstap, python, Django
+  📫 How to reach me: sanja1mandic@gmail.com
+  😄 Pronouns: she, her
+  ⚡ Fun fact: I have 8 years of experience with javascript, but I took an amazing journey for becoming a Full-stack Developer
 
 
 <!--END_SECTION:waka-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanja969&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanja969&theme=gruvbox)
