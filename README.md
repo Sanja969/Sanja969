@@ -1,7 +1,7 @@
 <div style = 'display: flex; align-items: center'><h2>I'm Sanja! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"></h2></div>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
-<p><em>Mechanical Engineer in journey to become great full stack developer</em></p>
+<p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p>
 
 
 ## Find me around the web 🌎: 
@@ -20,4 +20,4 @@
 
 
 <!--END_SECTION:waka-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanja969&theme=gruvbox)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanja969)](https://github.com/anuraghazra/github-readme-stats)
