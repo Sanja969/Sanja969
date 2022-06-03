@@ -15,7 +15,7 @@
   - 💬 Ask me about Javascript, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
-  - ⚡ Fun fact: 'I have 8 years of experience with javascript, but I took an amazing journey for becoming a Full-stack Developer'
+  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
 
 
 <!--END_SECTION:waka-->
