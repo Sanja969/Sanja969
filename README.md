@@ -3,11 +3,6 @@
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
-</p>
-
 ## Find me around the web 🌎: 
 
 - <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
@@ -28,6 +23,11 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanja969&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sanja Mandic's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanja969&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<p align="center"> 
+  Visitor count<br>
+  <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
+</p>
 
 | 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
