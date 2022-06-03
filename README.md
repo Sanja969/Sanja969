@@ -10,7 +10,6 @@
 - <a href="https://twitter.com/SanjaMandic42">Twiter</a> 🚀
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
-
   - 🔭 I’m currently working on To Do list Javascript
   - 🌱 Currently learning ES6 and webpack
   - 👯 Looking to collaborate on javascript API
