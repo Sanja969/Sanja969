@@ -5,7 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Sanja969/count.svg" />
+  <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
 </p>
 
 ## Find me around the web 🌎: 
