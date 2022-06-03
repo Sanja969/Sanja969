@@ -20,7 +20,7 @@ const eliVillalejos = {
   code: [JavaScript, Python, Django, HTML/CSS, Bootstrap],
   askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
   challenge: "I am honing my Javascript skills, and work with APIs`",
-  funFacts: ['I have 8 years of Mechanical Engineering experience and I took the amasing jeyrney of becoming full-stack Developer']
+  funFacts: ['I have 8 years of Mechanical Engineering experience and I took the amazing journey of becoming a full-stack Developer']
 }
 ```
 
