@@ -3,10 +3,6 @@
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Mechanical Engineer in journey to become great full stack developer</em></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sanja%20Mandic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanja-mandic-823995a2/)](https://www.linkedin.com/in/sanja-mandic-823995a2//)
-[![Twitter Badge](https://img.shields.io/badge/-@sanja42_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SanjaMandic42)](https://twitter.com/SanjaMandic42)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-SanjaMandic-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://dev.to/sanja969)]
-
 
 ## Find me around the web 🌎: 
 
