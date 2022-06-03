@@ -1,4 +1,4 @@
-<h2>Hi there <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> I'm Sanja! </h2>
+<h2>Hi there, I'm Sanja! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p>
