@@ -10,13 +10,13 @@
 - <a href="https://twitter.com/SanjaMandic42">Twiter</a> 🚀
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
-  - 🔭 I’m currently working on To Do list Javascript
-  - 🌱 Currently learning ES6 and webpack
+  - 🔭 I just finished To-Do-List project using Javascript, Webpack, css, html - <a href ='https://github.com/Sanja969/To-Do-List'>Weather App</a>
+  - 🌱 Currently learning ES6, Webpack, you can see expmple which I have done <a href ='https://github.com/Sanja969/Weather-app'>Weather App</a>
   - 👯 Looking to collaborate on javascript API
   - 💬 Ask me about Javascript, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
-  - ⚡ Fun fact: I have 8 years of experience with javascript, but I took an amazing journey for becoming a Full-stack Developer
+  - ⚡ Fun fact: 'I have 8 years of experience with javascript, but I took an amazing journey for becoming a Full-stack Developer'
 
 
 <!--END_SECTION:waka-->
