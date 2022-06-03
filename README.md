@@ -3,8 +3,6 @@
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p>
 
-<img src="https://raw.githubusercontent.com/Sanja969/Sanja969/master/resources/banner.png" alt="Hello world!">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Sanja969/count.svg" />
