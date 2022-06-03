@@ -7,9 +7,9 @@
 ## Find me around the web 🌎: 
 
 - <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-- <a href="https://twitter.com/SanjaMandic42">Twiter</a> 💼
+- <a href="https://twitter.com/SanjaMandic42">Twiter</a> 🚀
 
-### <div style = 'display: flex; align-items: center'><p>A little more about me...</p><img src="https://i0.wp.com/brightestyoungthings.com/wp-content/uploads/2014/02/despicable-me-gif.gif?fit=480%2C254&quality=100&ssl=1" width="50"></div>
+### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="50">
 
 
   - 🔭 I’m currently working on To Do list Javascript
