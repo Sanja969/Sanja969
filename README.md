@@ -3,7 +3,7 @@
 
 
 <div style = 'display: flex; align-items: center'><h2>I'm Sanja Mandic! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="70"></h2></div>
-<img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png">
+<img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width = '200'>
 <p><em>Mechanical Engineer in journey to become great full stack developer</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sanja%20Mandic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanja-mandic-823995a2/)](https://www.linkedin.com/in/sanja-mandic-823995a2//)
