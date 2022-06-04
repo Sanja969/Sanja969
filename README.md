@@ -26,7 +26,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
+  <img style ='filter: contrast(160%);' src="https://c.tenor.com/hPmW8YSWiggAAAAC/shiru-cactus.gif" />
 </p>
 
 | 🎵 Now Playing <img src="https://pa1.narvii.com/7163/9d6e95c681497b6550210863d76af337cc79b748r1-504-504_hq.gif" width="40"> </h2>                                                                                                                   |
