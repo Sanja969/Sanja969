@@ -28,7 +28,29 @@
   Visitor count<br>
   <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
 </p>
-
-| 🎵 Now Playing <img src="https://pa1.narvii.com/7163/9d6e95c681497b6550210863d76af337cc79b748r1-504-504_hq.gif" width="40"> </h2>                                                                                                                   |
+                                                                                                                 |
+| 🎵 Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a><img src="https://pa1.narvii.com/7163/9d6e95c681497b6550210863d76af337cc79b748r1-504-504_hq.gif" width="40"> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://open.spotify.com/track/665Jxlgi1HamPKbW1vwzx4" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://open.spotify.com/track/1gKmnrz6SzJlGMNRKBLx1V" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
