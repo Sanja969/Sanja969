@@ -29,7 +29,7 @@
   <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
 </p>
 
-| 🎵 Now Playing <img src="https://pa1.narvii.com/7163/9d6e95c681497b6550210863d76af337cc79b748r1-504-504_hq.gif" width="40">                                                                                                       |
+| 🎵 Now Playing <img src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
