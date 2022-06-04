@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Sanja! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
-<p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p><img src="https://i.pinimg.com/564x/b7/46/e5/b746e588f1bb0750882bb46551e214c8.jpg" width="20"> 
+<p><em>Mechanical Engineer in journey to become great Full-stack developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
 
 ## Find me around the web 🌎: 
 
