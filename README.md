@@ -10,7 +10,7 @@
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
   - 🔭 I just finished To-Do-List project using Javascript, Webpack, css, html - <a href ='https://sanja969.github.io/To-Do-List/'>To Do List</a>
-  - 🌱 Currently learning ES6, Webpack. You can see expmple which I have done - <a href ='https://sanja969.github.io/Weather-app/'>Weather App</a>
+  - 🌱 Currently learning ES6, Webpack. You can see example which I have done - <a href ='https://sanja969.github.io/Weather-app/'>Weather App</a>
   - 👯 Looking to collaborate on javascript API
   - 💬 Ask me about Javascript, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
