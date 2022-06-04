@@ -29,6 +29,6 @@
   <img style ='filter: contrast(160%);' src="https://profile-counter.glitch.me/Sanja969/count.svg" />
 </p>
 
-| 🎵 Now Playing <img src="https://c.tenor.com/pMP0y37UXKEAAAAC/happy-cactus.gif" width="40"> </h2>                                                                                                                   |
+| 🎵 Now Playing <img src="https://pa1.narvii.com/7163/9d6e95c681497b6550210863d76af337cc79b748r1-504-504_hq.gif" width="40"> </h2>                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
