@@ -19,7 +19,7 @@
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer' 
       'I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>Django</b>, <b>python</b>,                         <b>Javascript</b>, <b>Boostap</b>, <b>css</b>, and <b>html</b> and I also made blog app where I can write whatever I want.
-      I deploied it on some free server - pythoneverywhere :). This is link for myPortfolio - 
+      I deployed it on some free server - pythoneverywhere :). This is link for myPortfolio - 
       <a href ='https://sanja42.pythonanywhere.com/'>My   Portfolio</a>'
 
 
