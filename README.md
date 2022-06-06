@@ -9,13 +9,18 @@
 - <a href="https://twitter.com/SanjaMandic42">Twiter</a> 🚀
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
-  - 🔭 I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>Django</b>, <b>python</b>, Javascript, Boostap, css, html and I also made blog app where I can write whatever I want :) - <a href ='https://sanja969.github.io/To-Do-List/'>To Do List</a>
+
+
+  - 🔭 I resently finished To-Do-List project using Javascript, Webpack, css, html - <a href ='https://sanja969.github.io/To-Do-List/'>To Do List</a>
   - 🌱 Currently learning ES6, Webpack. You can see example which I have done - <a href ='https://sanja969.github.io/Weather-app/'>Weather App</a>
   - 👯 Looking to collaborate on javascript API
   - 💬 Ask me about Javascript, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
-  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
+  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer' 
+      'I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>Django</b>, <b>python</b>,                         <b>Javascript</b>, <b>Boostap</b>, <b>css</b>, and <b>html</b> and I also made blog app where I can write whatever I want.
+      I deploied it on some free server - pythoneverywhere :). This is link for myPortfolio - 
+      <a href ='https://sanja42.pythonanywhere.com/'>My   Portfolio</a>'
 
 
 <!--END_SECTION:waka-->
