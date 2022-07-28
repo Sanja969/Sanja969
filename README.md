@@ -11,10 +11,10 @@
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
 
-  - 🔭 I recently finished To-Do-List project using Javascript, Webpack, css, html - <a href ='https://sanja969.github.io/To-Do-List/'>To Do List</a>
-  - 🌱 Currently learning ES6, Webpack. You can see example which I have done - <a href ='https://sanja969.github.io/Weather-app/'>Weather App</a>
-  - 👯 Looking to collaborate on Javascript API
-  - 💬 Ask me about Javascript, Bootstap, Python, Django
+  - 🔭 I recently finished Star-Wars-Data-App using React, Redux, Javascript, Bootstrap, css, html - <a href ='https://star-wars-data-app.herokuapp.com/</a>
+  - 🌱 Currently learning React, Redux. You can see example which I have done - <a href ='https://github.com/Sanja969/bookstore'</a>
+  - 👯 Looking to collaborate on Ruby on Rails
+  - 💬 Ask me about Javascript, React, Redux, Bootstap, Python, Django
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer' 
