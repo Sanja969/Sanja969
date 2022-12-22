@@ -14,13 +14,11 @@
   - 🔭 My team and me recently finished House Rental App using React, Redux, JS6, SASS, Ruby, Rails - <a href ="https://x-house.herokuapp.com/">Heroku</a>
   - 🌱 Currently learning Typescript and Firebase. I have started project using React, Redux, JS6, SASS, Firebase and Typescript, yet there are still a lot of things to be finished - <a href ="https://github.com/Sanja969/Clothing-store">Source</a>
   - 👯 Looking to collaborate on Ruby on Rails
-  - 💬 Ask me about JS6, React, Redux, Bootstap, Python, Django, Ruby, Rails
+  - 💬 Ask me about JS6, React, Redux, Bootstap, Python, Django, Ruby, Rails, NodeJS, MongoDB, PostgreSQL, AWS
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer' 
-      'I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>NodeJS</b>, <MongoDb> <PostgreSQL> <Ruby on Rails> <b>React</b>, <b>JS6</b>, <b>Boostap</b>, <b>SASS</b>, and <b>HTML</b> and I also made blog app where I can write whatever I want.
-      I deployed it on some free server - pythoneverywhere :). This is link for myPortfolio - 
-      <a href ='https://sanja42.pythonanywhere.com/'>My   Portfolio</a>'
+      
 
 
 <!--END_SECTION:waka-->
