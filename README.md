@@ -18,7 +18,7 @@
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer' 
-      'I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>Django</b>, <b>Python</b>,                         <b>JavaScript</b>, <b>Boostap</b>, <b>CSS</b>, and <b>HTML</b> and I also made blog app where I can write whatever I want.
+      'I wanted to refreash my knowelage of django and it gave me idea to make my portfolio project using <b>NodeJS</b>, <MongoDb> <PostgreSQL> <Ruby on Rails> <b>React</b>, <b>JS6</b>, <b>Boostap</b>, <b>SASS</b>, and <b>HTML</b> and I also made blog app where I can write whatever I want.
       I deployed it on some free server - pythoneverywhere :). This is link for myPortfolio - 
       <a href ='https://sanja42.pythonanywhere.com/'>My   Portfolio</a>'
 
