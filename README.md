@@ -10,10 +10,6 @@
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
-
-  - 🔭 My team and me recently finished House Rental App using React, Redux, JS6, SASS, Ruby, Rails - <a href ="https://x-house.herokuapp.com/">Heroku</a>
-  - 🌱 Currently learning Typescript and Firebase. I have started project using React, Redux, JS6, SASS, Firebase and Typescript, yet there are still a lot of things to be finished - <a href ="https://github.com/Sanja969/Clothing-store">Source</a>
-  - 👯 Looking to collaborate on Ruby on Rails
   - 💬 Ask me about JS6, React, Redux, Bootstap, Python, Django, Ruby, Rails, NodeJS, MongoDB, PostgreSQL, AWS
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
