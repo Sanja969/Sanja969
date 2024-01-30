@@ -14,7 +14,7 @@
   - 📫 How to reach me: sanja1mandic@gmail.com
   - 😄 Pronouns: she, her
   - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
-  - Join me as we Unleash the Mystical Fusion of Tech and Magic! - [https://sanja-wi.netlify.app]✨🧙‍♀️🖥️ 
+  - Join me as we Unleash the Mystical Fusion of Tech and Magic! - [https://sanja-wi.netlify.app] ✨🧙‍♀️🖥️ 
 
 <!--END_SECTION:waka-->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanja969)](https://github.com/anuraghazra/github-readme-stats) -->
