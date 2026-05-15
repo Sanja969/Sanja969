@@ -55,9 +55,9 @@
 ### 🎧 Current vibe
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="35" />
-  <strong> Music, code & cosmic chaos </strong>
-  <img src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="35" />
+  <a href="https://spotify-playing-readme.vercel.app/">
+    <img src="https://spotify-playing-readme.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
+  </a>
 </p>
 
 <p align="center">
