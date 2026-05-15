@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Sanja! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
+mozd ad apromenim ovaj read file na githubu - <h2>Hi there, I'm Sanja! <img src="https://c.tenor.com/xBymNb6cXyoAAAAi/kondochan-wave.gif" width="40"> </h2>
 
 <img align='right' src="https://i.pinimg.com/originals/7f/40/af/7f40afc019acbd8617c0da88b4a1aa24.png" width="230">
 <p><em>Mechanical Engineer and Full-stack developer</em></p><img src="https://4.bp.blogspot.com/-fYSVzq-2XBA/Xd8YbktuliI/AAAAAAAMxBs/SP1wSwoqFqIxyOpRnpRMO-wBruNZ4MDtQCLcBGAsYHQ/s1600/AS0006083_02.gif" width="40"> 
@@ -10,12 +10,12 @@
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
-	•	⚙️ Full-stack engineer passionate about building scalable backend systems and meaningful digital experiences
-	•	🧠 Working with Go, React, TypeScript, Python/Django, Node.js, PostgreSQL, AWS, GraphQL, and modern cloud tooling
-	•	✨ Somewhere between engineering, creativity, and a little cosmic chaos
-	•	🚀 Rebuilding my portfolio and bringing old & new projects back to life
-	•	🌐 Enter the universe: https://sanjaverse.com
-	•	📫 sanja1mandic@gmail.com
+- ⚙️ Full-stack engineer passionate about building scalable backend systems and meaningful digital experiences  
+- 🧠 Working with Go, React, TypeScript, Python/Django, Node.js, PostgreSQL, AWS, GraphQL, and modern cloud tooling  
+- ✨ Somewhere between engineering, creativity, and a little cosmic chaos  
+- 🚀 Rebuilding my portfolio and bringing old & new projects back to life  
+- 🌐 Enter the universe: <a href="https://sanjaverse.com">sanjaverse.com</a>  
+- 📫 <a href="mailto:sanja1mandic@gmail.com">sanja1mandic@gmail.com</a>
 
 <!--END_SECTION:waka-->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanja969)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -30,5 +30,7 @@
 
 | <img align = 'left' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">🎵 Now Playing <img align = 'right' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
-
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |. . malo oblje ovaj deo -   - 💬 Ask me about S, TS, React, Redux, Bootstap, Python, Django, Ruby, Rails, NodeJS, MongoDB, PostgreSQL, AWS
+  - 📫 How to reach me: sanja1mandic@gmail.com
+  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
+  - Join me as we Unleash the Mystical Fusion of Tech and Magic! - [https://sanja-wi.netlify.app] ✨🧙‍♀️🖥️ 
