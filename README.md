@@ -10,11 +10,12 @@
 
 ### <p>A little more about me...</p><img src="https://cdn.dribbble.com/users/285475/screenshots/2640600/apple_dribbble.gif" width="100">
 
-  - 💬 Ask me about JS6, React, Redux, Bootstap, Python, Django, Ruby, Rails, NodeJS, MongoDB, PostgreSQL, AWS
-  - 📫 How to reach me: sanja1mandic@gmail.com
-  - 😄 Pronouns: she, her
-  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
-  - Join me as we Unleash the Mystical Fusion of Tech and Magic! - [https://sanja-wi.netlify.app] ✨🧙‍♀️🖥️ 
+	•	⚙️ Full-stack engineer passionate about building scalable backend systems and meaningful digital experiences
+	•	🧠 Working with Go, React, TypeScript, Python/Django, Node.js, PostgreSQL, AWS, GraphQL, and modern cloud tooling
+	•	✨ Somewhere between engineering, creativity, and a little cosmic chaos
+	•	🚀 Rebuilding my portfolio and bringing old & new projects back to life
+	•	🌐 Enter the universe: https://sanjaverse.com
+	•	📫 sanja1mandic@gmail.com
 
 <!--END_SECTION:waka-->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanja969)](https://github.com/anuraghazra/github-readme-stats) -->
