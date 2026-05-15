@@ -54,10 +54,11 @@
 
 ### 🎧 Current vibe
 
+
 <p align="center">
-  <a href="https://spotify-playing-readme.vercel.app/">
-    <img src="https://spotify-playing-readme.vercel.app/api/spotify" alt="Spotify Now Playing" width="450" />
-  </a>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uan2tnymbkp4x7xywp6rn3ygq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
 </p>
 
 <p align="center">
