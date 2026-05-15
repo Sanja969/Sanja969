@@ -29,8 +29,14 @@ mozd ad apromenim ovaj read file na githubu - <h2>Hi there, I'm Sanja! <img src=
 </p>
 
 | <img align = 'left' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">🎵 Now Playing <img align = 'right' src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="40">                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |. . malo oblje ovaj deo -   - 💬 Ask me about S, TS, React, Redux, Bootstap, Python, Django, Ruby, Rails, NodeJS, MongoDB, PostgreSQL, AWS
-  - 📫 How to reach me: sanja1mandic@gmail.com
-  - ⚡ Fun fact: 'I have 8 years of experience in field of Engineering, but I took an amazing journey for becoming a Full-stack Developer'
-  - Join me as we Unleash the Mystical Fusion of Tech and Magic! - [https://sanja-wi.netlify.app] ✨🧙‍♀️🖥️ 
+### 🎧 Current vibe
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="35" />
+  <strong> Music, code & cosmic chaos </strong>
+  <img src="https://i.pinimg.com/originals/34/8c/2b/348c2bc1205701772e982884fcf92c4e.gif" width="35" />
+</p>
+
+<p align="center">
+  <em>Currently building, debugging, learning, and probably listening to something dramatic.</em>
+</p>
